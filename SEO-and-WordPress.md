@@ -56,7 +56,7 @@ The page is static HTML/CSS/JS. Two ways to run it in WordPress:
 3. Replace the demo form with the CRM embed (see §3).
 
 ### Core settings
-- Settings → General: Site title **PDD Home Services**; tagline "Drywall, texture, painting & metal framing in Central Florida"; language **English (United States)**; timezone New York (Eastern).
+- Settings → General: Site title **PDD Home Services**; tagline "Drywall Contractor in Polk County & Orange County, FL"; language **English (United States)**; timezone New York (Eastern).
 - Settings → Reading: homepage = static page "Home"; **uncheck** "Discourage search engines" at launch.
 - Settings → Permalinks: "Post name".
 - Settings → Media: upload brand logo (`logo-white.svg`) and favicon (`favicon.svg` + PNG 512×512 fallback). Allow SVG via a safe plugin (Safe SVG).

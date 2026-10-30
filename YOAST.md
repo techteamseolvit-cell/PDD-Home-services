@@ -37,7 +37,8 @@ Drywall contractor in Polk County and Orange County, FL. Drywall, texture, paint
 ## Yoast SEO → Settings → Site representation
 - Site represents: Organization
 - Organization name: PDD Home Services
-- Tagline: Drywall, texture, painting & metal framing in Central Florida
+- Site title: PDD Home Services
+- Tagline: Drywall Contractor in Polk County & Orange County, FL
 - Logo: `assets/logos/logo-color.svg` exported as PNG (min 696×696 square mark recommended: use `mark-color.svg` as PNG)
 - Phone / email (Yoast Local SEO or contact info): +1 863-812-3424 · Pddremodelingllc@hotmail.com
 
