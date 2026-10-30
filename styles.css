@@ -204,7 +204,7 @@ p { margin: 0 0 1em; }
   .split--reverse .media { order: 0; }
   .services, .steps { grid-template-columns: repeat(2, 1fr); }
   .trust__grid { grid-template-columns: repeat(2, 1fr); }
-  .projects { grid-template-columns: repeat(2, 1fr); }
+  .projects { grid-template-columns: 1fr; }
   .cta__photo { display: none; }
   .trust__item:nth-child(3) { border-left: 0; }
   .trust__item:nth-child(n+3) { border-top: 1px solid rgba(0, 0, 0, .18); }
