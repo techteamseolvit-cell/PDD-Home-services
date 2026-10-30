@@ -9,10 +9,10 @@ Source of all facts: client intake form. Items marked **[CONFIRM]** need client 
 | Brand | PDD Home Services |
 | Page | Home (single landing) |
 | Language / market | English · United States (Central Florida) |
-| SEO title (≤60) | Drywall, Texture & Metal Framing \| PDD Home Services FL |
-| Meta description (≤155) | Drywall installation & finishing, texture, painting and metal framing in Orange & Polk County, FL. 18 years of experience. Request a quote. |
-| H1 | Drywall contractor in Central Florida |
-| Primary keyword | drywall contractor Central Florida |
+| SEO title (≤60) | Drywall Contractor in Polk County, FL | PDD Home Services |
+| Meta description (≤155) | Drywall contractor in Polk County, FL and Orange County: drywall finishing, texture, painting and metal framing. 18 years of experience. Request a quote. |
+| H1 | Drywall contractor in Polk County & Orange County |
+| Primary keyword | drywall contractor in Polk County |
 | Secondary keywords | drywall installation Polk County · drywall finishing Orange County FL · metal framing subcontractor Florida · wall texture contractor · drywall subcontractor for general contractors · painting and drywall Central Florida |
 | Search intent | Commercial / local: contractors and homeowners looking for a drywall, texture, painting and metal framing crew |
 | Priority audience | General contractors and construction companies needing subcontractors (client's top priority); also home builders, remodeling companies, homeowners |
@@ -23,7 +23,7 @@ Source of all facts: client intake form. Items marked **[CONFIRM]** need client 
 | Social image (OG) | 1200×630, logo on black with gold. Pending |
 
 ### Heading structure
-- H1: Drywall contractor in Central Florida
+- H1: Drywall contractor in Polk County & Orange County
 - H2: The Problem · Services · Our Process · About PDD Home Services · Clients · FAQ · Request your quote
 - H3: each service, each process step, each FAQ question
 
