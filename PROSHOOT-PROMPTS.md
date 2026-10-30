@@ -64,15 +64,15 @@ Finished projects only: no people, no tools, no scattered materials, professiona
 
 13. `materials` (background of Our Process)
 ```
-/proshoot A refined, minimalist macro photograph of the clean edge of a stack of white drywall sheets against a dark charcoal background, precise straight lines, subtle gold-toned rim light on the edge, dark low-key lighting, very shallow depth of field, large empty dark areas for text overlay, single subject only, nothing scattered. 85mm macro, f/2.8. Professional real-estate and architectural photography, finished and spotless, no people, no tools, no ladders, no construction materials or debris, no text, no logos, no watermark. Canon EOS R5, tilt-shift corrected vertical lines, balanced natural window light, true-to-life colors, sharp detail. 16:9.
+/proshoot A refined, minimalist macro photograph of the clean edge of a stack of white drywall sheets against a dark charcoal background, precise straight lines, subtle gold-toned rim light on the edge, dark low-key lighting, very shallow depth of field, large empty dark areas for text overlay, single subject only, nothing scattered. 85mm macro, f/2.8. Professional photography, no people, no tools, no construction debris, no text, no logos, no watermark. Canon EOS R5, sharp detail. 16:9.
 ```
 
 14. `cta` (right half of the final CTA)
 ```
-/proshoot A perfectly finished interior wall corner with smooth white paint, crisp ceiling line and fine knockdown texture, soft warm daylight falling from a window on the right, composition weighted to the right with a clean empty left side, nothing in the frame. 35mm, f/4. Professional real-estate and architectural photography, finished and spotless, no people, no tools, no ladders, no construction materials or debris, no text, no logos, no watermark. Canon EOS R5, tilt-shift corrected vertical lines, balanced natural window light, true-to-life colors, sharp detail. 16:9.
+/proshoot A perfectly finished interior wall corner with smooth white paint, crisp ceiling line and fine knockdown texture, soft warm daylight falling from a window on the right, composition weighted to the right with a clean empty left side, nothing in the frame. 35mm, f/4. Professional photography, no people, no tools, no construction debris, no text, no logos, no watermark. Canon EOS R5, sharp detail. 16:9.
 ```
 
 15. `footer` (optional dark background)
 ```
-/proshoot A dark, desaturated close-up of a freshly finished smooth wall with soft raking light and very subtle texture, very low contrast and low brightness, suitable as a footer background behind white text, empty frame. 50mm, f/5.6. Professional real-estate and architectural photography, finished and spotless, no people, no tools, no ladders, no construction materials or debris, no text, no logos, no watermark. Canon EOS R5, tilt-shift corrected vertical lines, balanced natural window light, true-to-life colors, sharp detail. 16:9.
+/proshoot A dark, desaturated close-up of a freshly finished smooth wall with soft raking light and very subtle texture, very low contrast and low brightness, suitable as a footer background behind white text, empty frame. 50mm, f/5.6. Professional photography, no people, no tools, no construction debris, no text, no logos, no watermark. Canon EOS R5, sharp detail. 16:9.
 ```
