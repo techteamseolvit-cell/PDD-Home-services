@@ -225,3 +225,6 @@ p { margin: 0 0 1em; }
 .thanks p { margin: 0 0 .8rem; font-size: 1.1rem; color: rgba(255, 255, 255, .85); }
 @keyframes thanksZoom { from { transform: scale(1); } to { transform: scale(1.1); } }
 @media (prefers-reduced-motion: reduce) { .thanks__bg { animation: none; } }
+
+/* GoHighLevel form embed (the script resizes the iframe to its content) */
+.form-embed { display: block; width: 100%; min-height: 826px; border: 0; border-radius: 0; margin-top: .5rem; }

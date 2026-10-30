@@ -23,13 +23,3 @@ const applyImage = async (el) => {
 };
 
 document.querySelectorAll("[data-image]").forEach(applyImage);
-
-// Form: pending CRM connection (GoHighLevel or other).
-// Replace this block with the form embed or a fetch to the webhook.
-document.querySelectorAll("[data-lead-form]").forEach((form) => {
-  form.addEventListener("submit", (event) => {
-    event.preventDefault();
-    const status = form.querySelector("[data-form-status]");
-    status.textContent = "Form not connected yet. Pending CRM integration.";
-  });
-});
