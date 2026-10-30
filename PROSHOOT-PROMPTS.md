@@ -76,3 +76,20 @@ Finished projects only: no people, no tools, no scattered materials, professiona
 ```
 /proshoot A dark, desaturated close-up of a freshly finished smooth wall with soft raking light and very subtle texture, very low contrast and low brightness, suitable as a footer background behind white text, empty frame. 50mm, f/5.6. Professional photography, no people, no tools, no construction debris, no text, no logos, no watermark. Canon EOS R5, sharp detail. 16:9.
 ```
+
+## Extra slots without people
+
+16. `problem` (section "The Problem")
+```
+/proshoot A realistic interior wall in a middle-class Florida home with visible drywall problems: a hairline crack running from a door corner, an uneven old patch with a visible rough edge, a faint water stain near the ceiling and slightly peeling paint, dull yellowed white paint, soft daylight from a side window emphasizing the imperfections, empty room, honest and unglamorous but clean. 35mm, f/5.6. Professional photography, no people, no tools, no ladders, no construction debris, no text, no logos, no watermark. Canon EOS R5, true-to-life colors, sharp detail. 4:3.
+```
+
+17. `team` (section "About") — option A: company work truck
+```
+/proshoot A clean, plain black pickup truck with a drywall rack and neatly strapped sheets of drywall, parked in the driveway of a middle-class single-story Florida home with stucco walls and a tidy lawn, early morning golden light, truck well maintained, no one in the frame, no lettering or logos on the vehicle, license plate blurred. 35mm, f/5.6. Professional exterior photography, no people, no text, no logos, no watermark. Canon EOS R5, true-to-life colors, sharp detail. 4:3.
+```
+
+17b. `team` — option B: organized tools (use only one of A or B)
+```
+/proshoot A neatly organized professional tool wall in a clean garage workshop: drywall taping knives of different widths, mud pans, a pole sander, utility knives and a tape measure each hung in order on a black pegboard, a tidy shelf of labeled-free paint buckets below, soft overhead light, everything perfectly aligned and orderly, no people, no clutter. 50mm, f/5.6. Professional photography, no people, no text, no logos, no watermark. Canon EOS R5, true-to-life colors, sharp detail. 4:3.
+```
