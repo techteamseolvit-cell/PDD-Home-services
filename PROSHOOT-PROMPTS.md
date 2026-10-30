@@ -89,7 +89,7 @@ Finished projects only: no people, no tools, no scattered materials, professiona
 /proshoot A clean, plain black pickup truck with a drywall rack and neatly strapped sheets of drywall, parked in the driveway of a middle-class single-story Florida home with stucco walls and a tidy lawn, early morning golden light, truck well maintained, no one in the frame, no lettering or logos on the vehicle, license plate blurred. 35mm, f/5.6. Professional exterior photography, no people, no text, no logos, no watermark. Canon EOS R5, true-to-life colors, sharp detail. 4:3.
 ```
 
-17b. `team` — option B: organized tools (use only one of A or B)
+17b. `team` — option B: active job site, no people (use only one of A or B)
 ```
-/proshoot A neatly organized professional tool wall in a clean garage workshop: drywall taping knives of different widths, mud pans, a pole sander, utility knives and a tape measure each hung in order on a black pegboard, a tidy shelf of labeled-free paint buckets below, soft overhead light, everything perfectly aligned and orderly, no people, no clutter. 50mm, f/5.6. Professional photography, no people, no text, no logos, no watermark. Canon EOS R5, true-to-life colors, sharp detail. 4:3.
+/proshoot An active but clean drywall job site inside a middle-class Florida home, seen as if the crew just stepped away: a wall half finished with fresh joint compound and visible taping knife strokes, a mud pan with a taping knife resting on a bucket, a pole sander leaning against the wall, an extension cord and a work light on a stand glowing warm, a stepladder opened in the corner, a few drywall sheets neatly leaning on a finished wall, kraft paper protecting the floor, light dust on the floor, afternoon sun from a window. Lived-in and in progress but orderly, no people, no hands, no figures. 35mm, f/5.6. Professional documentary photography, no text, no logos, no watermark. Canon EOS R5, true-to-life colors, sharp detail. 4:3.
 ```
