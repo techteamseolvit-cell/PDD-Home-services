@@ -1,7 +1,7 @@
-# Imágenes
+# Images
 
-Soltar aquí las fotos (webp, jpg, jpeg o png) con estos nombres y la landing las toma sola:
+Drop the photos here (webp, jpg, jpeg or png) using these names and the landing picks them up automatically:
 
-- `hero.*`     fondo del hero (se oscurece automáticamente)
-- `problema.*` sección "El problema"
-- `equipo.*`   sección "Sobre PDD Home Services"
+- `hero.*`    hero background (darkened automatically)
+- `problem.*` "The Problem" section
+- `team.*`    "About PDD Home Services" section
