@@ -41,3 +41,14 @@ const hideStrayBlocks = () => {
 
 hideStrayBlocks();
 new MutationObserver(hideStrayBlocks).observe(document.body, { childList: true });
+
+// Sticky header: sit below the WordPress admin bar only when that bar is visible and fixed
+// (hidden in the Elementor editor, and not fixed on small screens).
+const syncStickyTop = () => {
+  const bar = document.getElementById("wpadminbar");
+  const visible = bar && getComputedStyle(bar).display !== "none" && getComputedStyle(bar).position === "fixed";
+  document.documentElement.style.setProperty("--pdd-sticky-top", visible ? bar.offsetHeight + "px" : "0px");
+};
+
+syncStickyTop();
+window.addEventListener("resize", syncStickyTop);
