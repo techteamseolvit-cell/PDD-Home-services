@@ -6,7 +6,7 @@ Drop photos here (webp, jpg, jpeg or png) with these exact names; the landing pi
 |---|---|
 | `hero.*` | Hero background (darkened automatically) |
 | `problem.*` | "The Problem" section |
-| `team.*` | "About" section |
+| `team-1.*`, `team-2.*`, `team-3.*` | "About" section: three close-up tiles (painting, texture, drywall) |
 | `materials.*` | Background of "Our Process" (darkened) |
 | `cta.*` | Right half of the final CTA (fades into gold) |
 | `footer.*` | Footer background (darkened) |
