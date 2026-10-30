@@ -107,7 +107,7 @@ p { margin: 0 0 1em; }
 .media:not(.has-image)::after { content: "Foto: " attr(data-image); position: absolute; inset: 0; display: grid; place-items: center; color: var(--gold); font-family: var(--font-head); letter-spacing: .15em; text-transform: uppercase; font-size: .9rem; }
 
 /* Projects */
-.projects { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+.projects { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .project { aspect-ratio: 4 / 3; }
 .project figcaption { position: absolute; left: 0; right: 0; bottom: 0; z-index: 2; padding: 2.2rem .9rem .8rem; color: var(--white); font-family: var(--font-head); text-transform: uppercase; letter-spacing: .08em; font-size: .9rem; background: linear-gradient(to top, rgba(0, 0, 0, .8), transparent); }
 .project:not(.has-image) figcaption { background: none; }
