@@ -3,7 +3,7 @@
    Tipografía: Oswald (títulos) · Inter (texto) */
 
 :root {
-  --gold: #c6983e;
+  --gold: #c7993f;
   --gold-dark: #a87d2a;
   --black: #000;
   --ink: #0d0d0d;
@@ -63,7 +63,16 @@ p { margin: 0 0 1em; }
 .hero__bg { position: absolute; inset: 0; z-index: -1; background:
   radial-gradient(900px 500px at 85% 10%, rgba(198, 152, 62, .22), transparent 60%),
   linear-gradient(135deg, #000 0%, #161616 100%); background-size: cover; background-position: center; }
-.hero__bg.has-image::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0,0,0,.92) 0%, rgba(0,0,0,.65) 100%); }
+.hero__bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0, 0, 0, .72) 0%, rgba(0, 0, 0, .38) 55%, rgba(0, 0, 0, .12) 100%), linear-gradient(0deg, rgba(0, 0, 0, .35) 0%, transparent 35%); }
+/* Slideshow with Ken Burns: 5 slides x 7s, cross-fading */
+.hero__slide { position: absolute; inset: 0; background-size: cover; background-position: center; opacity: 0; transform-origin: center; will-change: transform, opacity; animation: heroKenBurns 35s linear infinite; animation-delay: calc(var(--i) * 7s - .5s); }
+@keyframes heroKenBurns {
+  0% { opacity: 0; transform: scale(1) translate(0, 0); }
+  3% { opacity: 1; }
+  20% { opacity: 1; }
+  24% { opacity: 0; transform: scale(1.14) translate(-1.5%, -1%); }
+  100% { opacity: 0; transform: scale(1.14) translate(-1.5%, -1%); }
+}
 .hero__inner { display: grid; grid-template-columns: 1.15fr .85fr; gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
 .hero h1 span { color: var(--gold); }
 .hero__lead { font-size: 1.15rem; max-width: 34em; color: rgba(255, 255, 255, .85); }
@@ -195,6 +204,8 @@ p { margin: 0 0 1em; }
   .hero__actions .btn, .cta__actions .btn { width: 100%; }
 }
 @media (prefers-reduced-motion: reduce) {
+  .hero__slide { animation: none; }
+  .hero__slide:first-child { opacity: 1; }
   html { scroll-behavior: auto; }
   .btn { transition: none; }
 }
