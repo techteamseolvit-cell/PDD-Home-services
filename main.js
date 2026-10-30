@@ -23,3 +23,21 @@ const applyImage = async (el) => {
 };
 
 document.querySelectorAll("[data-image]").forEach(applyImage);
+
+// Third-party embeds (the GoHighLevel form script) can append in-flow elements after the footer,
+// which shows up as an empty band under it. Hide those; fixed/absolute widgets are left alone.
+const FOOTER_SELECTOR = ".footer";
+const IGNORED_TAGS = new Set(["SCRIPT", "STYLE", "LINK", "NOSCRIPT", "TEMPLATE"]);
+
+const hideStrayBlocks = () => {
+  const footer = document.querySelector(FOOTER_SELECTOR);
+  if (!footer) return;
+  for (let el = footer.nextElementSibling; el; el = el.nextElementSibling) {
+    if (IGNORED_TAGS.has(el.tagName)) continue;
+    const position = getComputedStyle(el).position;
+    if (position === "static" || position === "relative") el.style.setProperty("display", "none", "important");
+  }
+};
+
+hideStrayBlocks();
+new MutationObserver(hideStrayBlocks).observe(document.body, { childList: true });
